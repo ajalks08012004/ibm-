@@ -1,0 +1,18 @@
+/* Footer Styling */
+    footer {
+      background-color: #003366;
+      color: #d1e3ff;
+      padding: 30px 0;
+      text-align: center;
+      margin-top: 60px;
+    }
+
+    footer a {
+      color: #a0c7ff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
